@@ -81,7 +81,7 @@ for each stage of generation (tracked with a Stage/Phase/Generation trait). Crea
 ## Matthias Trinley figures generation
 (In Production)
 
-Partially sponsored by Matthias Trinley
+_Partially sponsored by Matthias Trinley_
 
 Create characters using algonfts.art code generation interface. Secondary store script calls backend contract
 monitored by block watcher to trigger image generation, pin, mint and transfer back to store.
