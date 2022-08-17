@@ -126,8 +126,8 @@ Pin an NFT
 
 * `mint [overwrite Arc19 assetid]`
 
-This can be less than ideal because applications may prefer to have the minting atomic with other transactions
-and so do the final mint themselves with our application specific transactions (as is the case with burn-to-mint).
+This can be less than ideal because applications may prefer to have the minting atomic with other application-specific transactions
+ (as is the case with the burn-to-mint Discord bot).
 
 
 * `recordMint`
