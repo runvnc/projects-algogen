@@ -165,7 +165,7 @@ Custom LiveScript code using algonfts.art infrastructure to generate tiles for t
 Using the algonfts.art infrastructure to generate, pin and mint replacement NFTs for the Alatars Tile game.
 Non-foil system in place, more expensive "foil" tiles in testing and should be in production by Friday.
 
-## vrfshuffle.com
+## ⚡ vrfshuffle.com
 (In progress, investigatory stage)
 
 _Partially sponsored by AlgoWhales_
