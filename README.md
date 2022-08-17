@@ -65,7 +65,7 @@ Provides pinning service with uploads to both web3.storage and Filebase.io.
 Creates Arc69 metadata and mints on the Algorand blockchain. Modest fee (0.07 ALGO)
 per item minted.
 
-### Arc19 minting
+### <mark style="background-color: magenta">Arc19 minting</mark>
 (Planned)
 
 * Mint modifyable NFTs using Arc19. 
