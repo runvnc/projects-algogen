@@ -94,7 +94,7 @@ monitored by block watcher to trigger image generation, pin, mint and transfer b
 _Partially sponsored by Matthias Trinley_
 
 Create opt-in link for up to 3 assets. View all holders, randomly assign token amounts weighted by holdings.
-Execute transfers. Show history of drops.
+Execute transfers. Show history of drops and all holdings.
 
 ###  Swap and Sale creator
 
