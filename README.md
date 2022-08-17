@@ -76,8 +76,7 @@ per item minted.
 purchase of variants and reminting over item.
 
 * Evolution. Add sections to the algonfts.art interface, so that creators can specify different parameters
-for each stage of generation (tracked with a Stage/Phase/Generation trait). Create a web page, iframe or embeddable script
-</mark>
+for each stage of generation (tracked with a Stage/Phase/Generation trait). Create a web page, API endpoint, iframe or embeddable script so that creators can integrate this.
 
 ## Matthias Trinley figures generation
 (In Production)
