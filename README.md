@@ -65,7 +65,8 @@ Provides pinning service with uploads to both web3.storage and Filebase.io.
 Creates Arc69 metadata and mints on the Algorand blockchain. Modest fee (0.07 ALGO)
 per item minted.
 
-### <mark style="background-color: magenta">Arc19 minting</mark>
+<mark style="background-color: magenta">
+### Arc19 minting
 (Planned)
 
 * Mint modifyable NFTs using Arc19. 
@@ -77,6 +78,7 @@ purchase of variants and reminting over item.
 
 * Evolution. Add sections to the algonfts.art interface, so that creators can specify different parameters
 for each stage of generation (tracked with a Stage/Phase/Generation trait). Create a web page, iframe or embeddable script
+</mark>
 
 ## Matthias Trinley figures generation
 (In Production)
@@ -164,12 +166,12 @@ Custom LiveScript code using algonfts.art infrastructure to generate tiles for t
 Using the algonfts.art infrastructure to generate, pin and mint replacement NFTs for the Alatars Tile game.
 Non-foil system in place, more expensive "foil" tiles in testing and should be in production by Friday.
 
-## VRF Shuffle
-(In progress, investigtory stage)
+## vrfshuffle.com
+(In progress, investigatory stage)
 
 _Partially sponsored by AlgoWhales_
 
-Shuffle system, ideally taking advantage of the new VRF feature. 
+Shuffle system, ideally taking advantage of the new VRF feature to be released in the next AVM. 
 Should have good UX for transferring NFTs to the shuffle wallet.
 
 ## algobreeder.com
