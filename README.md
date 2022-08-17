@@ -148,7 +148,7 @@ other desirable traits.
 
 Configuration of tokens, pricing, logicsig signing through gifeconomy site.
 
-LogicSigs enable mint, transfers, payment, burn to be atomic.
+LogicSigs and Algorand application with temporary rekey enable mint, transfers, payment, burn to be atomic.
 
 ⚡ Planned: (non-burn) mint-on-demand Discord bot, leveraging existing burn-to-mint code.
 
