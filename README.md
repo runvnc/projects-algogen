@@ -65,9 +65,7 @@ Provides pinning service with uploads to both web3.storage and Filebase.io.
 Creates Arc69 metadata and mints on the Algorand blockchain. Modest fee (0.07 ALGO)
 per item minted.
 
-⚡
-
-### Arc19 minting
+### ⚡⚡ Arc19 minting
 (Planned)
 
 * Mint modifyable NFTs using Arc19. 
@@ -108,7 +106,7 @@ Embeddable (iframe) swap or sale
 
 Show all holders and amounts of a collection
 
-### NFTGEN API
+### ⚡ NFTGEN API
 (In Progress)
 
 Planned to release an open API exposing the algonfts.art generation and pinning services over HTTP. This will allow
@@ -152,7 +150,7 @@ Configuration of tokens, pricing, logicsig signing through gifeconomy site.
 
 LogicSigs enable mint, transfers, payment, burn to be atomic.
 
-Planned: (non-burn) mint-on-demand Discord bot, leveraging existing burn-to-mint code.
+⚡ Planned: (non-burn) mint-on-demand Discord bot, leveraging existing burn-to-mint code.
 
 ## Alvatars
 
@@ -175,7 +173,7 @@ _Partially sponsored by AlgoWhales_
 Shuffle system, ideally taking advantage of the new VRF feature to be released in the next AVM. 
 Should have good UX for transferring NFTs to the shuffle wallet.
 
-## algobreeder.com
+## ⚡ algobreeder.com
 (Planned)
 
 Website to randomly combine traits from two (arc69?) NFTs (possibly allow some trait selection).
