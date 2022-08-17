@@ -1,5 +1,6 @@
 
 # ALGOGEN (runvnc) Algorand Projects
+_algogen.algo_
 
 ## gifeconomy.com
 (In Production, specific improvements planned)
